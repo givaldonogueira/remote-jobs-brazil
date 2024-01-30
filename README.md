@@ -10,6 +10,7 @@ Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs).
 
 Name | Website
 ------------ | -------
+Meu Consig | https://meuconsig.com/company/meu-consig/
 203pixels | https://www.linkedin.com/company/203-pixels/
 A2C | https://www.briviagroup.com.br/
 Abacomm | http://www.abacomm.com.br/
