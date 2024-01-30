@@ -125,6 +125,7 @@ Medicinia | https://www.medicinia.com.br/
 Melhores Diaristas | https://www.melhoresdiaristas.com.br
 Meltwater | https://www.meltwater.com
 MiningMath | http://www.miningmath.com/
+Meu Consig | http://www.meuconsig.com/
 Monde | http://www.monde.com.br/
 Movidesk | https://www.movidesk.com/
 Nagro | https://nagro.com.br
